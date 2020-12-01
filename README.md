@@ -13,9 +13,9 @@ On May 13, 2019, the ACLU of Northern California sent a Public Records Act reque
 >   * Unique case identifiers, charges, and outcomes (including diversion) of all misdemeanor charges for minors and adults in Los Angeles county.
 >   * Unique case identifiers, charges, enhancements and outcomes (including diversion) of all felony charges for minors and adults in Los Angeles county.
 
-In response to this portion of the request, the Los Angeles District Attorney's office provided an Excel file.
+In response to this portion of the request, the Los Angeles District Attorney's office provided an Excel file, `20191114-ACLU_New.xlsx`.
 
-la_data.R takes that Excel spreadsheet, cleans it and adds information necessary to conduct the analyses described in the paper. It produces a dataframe called `data`
+la_data.R takes that Excel spreadsheet, cleans it and adds information necessary to conduct the analyses described in the paper. It produces a dataframe called `data`.
 
 la_paper_script.R uses the dataframe `data` which is created by la_data.R and carries out all the analyses from the paper. To make finding the different analyses from the paper easier, a snippet of quote from the paper is provided in a comment before the analysis code, and the script is broken down into the different sections in the same way the paper is organized.
 
