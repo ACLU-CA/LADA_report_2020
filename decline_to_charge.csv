@@ -1,4 +1,4 @@
-Charge,Include,Type,Description,Match Type,Comment
+Charge,Include,Type,Description,Match Type,
 BP 7027,Include,Main statute,Advertising without a license,Exact,
 BP 7027.1,Include,Subsection,,Exact,
 BP 7027.1(A),Include,Subsection,,Exact,
@@ -12,7 +12,7 @@ BP 7028(B),Include,Subsection,,Exact,
 BP 7028(C),Include,Subsection,,Exact,
 EC 48454,Include,Main statute,,Partial,
 HS 11350,Include,Main statute,Simple possession of drugs,Partial,
-HS 11351,Include,Main statute,Possession of drugs for sale,Partial,Specify in report that if it's an amount reasonable for personal use should be DTC
+HS 11351,Include,Main statute,Possession of drugs for sale,Partial,
 HS 11363,Include,Main statute,Cultivating peyote,Partial,
 HS 11364,Include,Main statute,possession of paraphernalia,Partial,
 HS 11377,Include,Main statute,Poss of meth,Exact,
