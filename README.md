@@ -1,6 +1,6 @@
 # LADA_report_2020
 
-This repository provides all the information necessary to replicate all the analyses performed for the ACLU of Northern California's paper [(In)Justice In LA: An Analysis of the Los Angeles County District Attorney’s Office  & Recommendations for Justice Reform](https://meetyourda.org/reports/lada/5573/). Inquiries should be sent to ______@aclunc.org
+This repository provides all the information necessary to replicate all the analyses performed for the ACLU of Northern California's paper [(In)Justice In LA: An Analysis of the Los Angeles County District Attorney’s Office  & Recommendations for Justice Reform](https://meetyourda.org/reports/lada/5573/). Inquiries should be sent to jwilliams@aclunc.org
 
 On May 13, 2019, the ACLU of Northern California sent a Public Records Act request to the Los Angeles District Attorney’s Office. The request asked for, among other things:
 
